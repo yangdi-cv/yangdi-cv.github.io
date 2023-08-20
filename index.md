@@ -4,13 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/yangdi-cv/yangdi-cv.github.io/blob/main/images/img1.png?raw=true" class="floatpic" width="210" height="220">
+<img src="https://github.com/yangdi-cv/yangdi-cv.github.io/blob/main/images/img1.png?raw=true" class="floatpic" width="190" height="200">
 
 Here is **Yang Di**.
 
 I'm a second-year PhD student from the [University of Wollongong](https://www.uow.edu.au/). My research interests include deep learning, computer vision, object detection, image processing, and pattern recognition.
 
-I am very fortunate to be advised by [Prof. Son Lam Phung](https://scholars.uow.edu.au/lam-phung) and [Senior Prof. Salim Bouzerdoum](https://scholars.uow.edu.au/a-bouzerdoum) of the Centre for Signal and Information Processing (CSIP) from the School of Electrical, Computer and Telecommunications Engineering (SECTE).
+I am very fortunate to be advised by [Prof. Son Lam Phung](https://scholars.uow.edu.au/lam-phung) and [Senior Prof. Salim Bouzerdoum](https://scholars.uow.edu.au/a-bouzerdoum) of the Centre for Signal and Information Processing (CSIP) from the School of Electrical, Computer and Telecommunications Engineering.
 
 <br>
 
