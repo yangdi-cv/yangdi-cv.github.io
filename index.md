@@ -24,4 +24,4 @@ I am very fortunate to be advised by [Prof. Son Lam Phung](https://scholars.uow.
 
 - **July 2023：** One paper submitted to DICTA 2023.
 - **June 2023：** One paper submitted to WACV 2024.
-- **Jan 2023：** One paper accepted to ICIP 2023.
+- **June 2023：** One paper accepted to ICIP 2023.
