@@ -1,5 +1,4 @@
 title: Yang Di
-# tagline: Two roads diverged in woods, I took the one less traveled by.
 description: University of Wollongong
 #Comment out url when working locally to resolve base urls correctly
 url: https://yangdi-cv.github.io
@@ -11,12 +10,12 @@ owner:
 #  bio:
   email: yd475@uowmail.edu.au
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: ericdiii_
-  facebook: ericdiii
+  twitter:
+  facebook:
   github: yangdi-cv
   linkedin: -yangdi
   scholar: https://scholar.google.com.au/
-  instagram: ericdiii_
+  instagram:
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -34,8 +33,6 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV-HanlinCAI.pdf
   - title: Publications
     url: /publications/
   - title: Awards
