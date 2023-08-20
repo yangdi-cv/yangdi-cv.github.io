@@ -10,16 +10,14 @@ title: Awards
 - Higher Degree Research Scholarship
 - International Postgraduate Tuition Award
 - Summer Research Scholarship
-- RA Scholarship <br>.
+- RA Scholarship
 
-## Competitions
-
-- Thesis Best Seminar - Third Prize
 
 ## Honors
 
 - UOW First Class Honours Degree
 - Dean's Merit Award
+- Third Prize for Thesis Best Seminar
 
 ## Services
 
