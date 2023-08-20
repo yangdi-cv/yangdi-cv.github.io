@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 Here is **Yang Di**.
 
