@@ -9,14 +9,14 @@ owner:
   name: Yang Di
   avatar: img.png
 #  bio:
-  email: # hanlin.cai@ieee.org
+  email: yd475@uowmail.edu.au
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: # lancecai2002
-  # facebook: caihanlin2002
+  twitter: ericdiii_
+  facebook: ericdiii
   github: yangdi-cv
   linkedin: -yangdi
   scholar: https://scholar.google.com.au/
-  # instagram: # lancecai2002
+  instagram: ericdiii_
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -40,8 +40,6 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Fundings
-    url: /fundings/
   - title: Hobbies
     url: /hobbies/
   - title: Blogs
@@ -83,5 +81,3 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/08/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
