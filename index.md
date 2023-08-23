@@ -14,7 +14,7 @@ My research interests include object detection, deep learning, computer vision, 
 
 ## Academic Background
 
-- **Feb 2022 - Present:** University of Wollongong (PhD) in Computer Engineering
+- **Feb 2022 - Present:** University of Wollongong (PhD) in Computer Science
 - **Mar 2020 - Dec 2021:** University of Wollongong (BEng) in Telecommunications Engineering
 - **Sep 2017 - Jun 2019:** Tiangong University (BEng) in Telecommunications Engineering
 
