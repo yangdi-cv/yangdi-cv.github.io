@@ -18,6 +18,7 @@ title: Awards
 - UOW First Class Honours Degree
 - Dean's Merit Award
 - Third Prize for Thesis Best Seminar
+- Three Minute Thesis Faculty Heat
 
 ## Services
 
