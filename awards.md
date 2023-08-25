@@ -6,19 +6,19 @@ title: Awards
 
 ## Scholarships
 
-- PhD Top-up Scholarship
 - Higher Degree Research Scholarship
 - International Postgraduate Tuition Award
+- PhD Top-up Scholarship
 - Summer Research Scholarship
 - RA Scholarship
 
 
 ## Honors
 
+- 3MT Competition Faculty Heat
 - UOW First Class Honours Degree
-- Dean's Merit Award
 - Third Prize for Thesis Best Seminar
-- Three Minute Thesis Faculty Heat
+- Dean's Merit Award
 
 ## Services
 
