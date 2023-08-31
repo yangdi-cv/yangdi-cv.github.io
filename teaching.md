@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /teaching/index.html
+title: Teaching
 ---
 
 ## Lab Demonstration
