@@ -24,6 +24,3 @@ title: Awards
 ## Services
 
 - IEEE Access Reviewer
-
-## Volunteering
-- [Peer Student Mentor](https://yangdi-cv.github.io/awards/Mentor_Certificate.pdf)
