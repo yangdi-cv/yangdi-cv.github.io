@@ -12,5 +12,5 @@ title: Teaching
 - CSCI316: Big Data Mining Techniques and Implementation
 
 ## Mentoring
-- [Senior Student Mentor]()
+- [Senior Student Mentor](https://yangdi-cv.github.io/awards/Student-Mentor.pdf)
 - [HDR Peer Mentor](https://yangdi-cv.github.io/awards/Mentor_Certificate.pdf)
