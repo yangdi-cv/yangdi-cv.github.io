@@ -8,7 +8,7 @@ title: Projects
   Feb 2023 - Jun 2023 <br>
   Funded by [AGO Analytics Lab](https://frontiersi.com.au/analytics-lab-program/) Program <br>
   
-- **Airborne and AI-Driven Assessment Solution of Sugarcane** <br>
+- **Airborne and AI-Driven Assessment Solution of Sugarcane** [[Video](https://www.youtube.com/watch?v=Doo02Ad4_Jo)] <br>
   Oct 2022 - Dec 2022 <br>
   Funded by [CSIRO Aus4Innovation](https://research.csiro.au/aus4innovation/) Program <br>
 
