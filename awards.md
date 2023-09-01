@@ -9,7 +9,7 @@ title: Awards
 - Higher Degree Research Scholarship
 - International Postgraduate Tuition Award
 - PhD Top-up Scholarship
-- Summer Research Scholarship
+- [Summer Research Scholarship](https://yangdi-cv.github.io/awards/Summer-Research.pdf)
 - RA Scholarship
 
 
@@ -17,8 +17,8 @@ title: Awards
 
 - 3MT Competition Faculty Heat
 - UOW First Class Honours Degree
-- Third Prize for Thesis Best Seminar
-- Dean's Merit Award
+- [Third Prize for Thesis Best Seminar](https://yangdi-cv.github.io/awards/Thesis-Seminar.pdf)
+- [Dean's Merit Award](https://yangdi-cv.github.io/awards/Deans-List.pdf)
 
 
 ## Services
