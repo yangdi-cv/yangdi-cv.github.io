@@ -19,8 +19,3 @@ title: Awards
 - UOW First Class Honours Degree
 - [Third Prize for Thesis Best Seminar](https://yangdi-cv.github.io/awards/Thesis-Seminar.pdf)
 - [Dean's Merit Award](https://yangdi-cv.github.io/awards/Deans-List.pdf)
-
-
-## Services
-
-- IEEE Access Reviewer
