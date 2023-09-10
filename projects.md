@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-- **Multi-modal Vessel Surveillance via Optical and Synthetic Aperture Radar Imaging** <br>
+- **Vessel Surveillance via Optical and Synthetic Aperture Radar Imaging** <br>
   Aug 2023 - Present <br>
   Funded by [NSW Space Research Network](https://www.spaceresearchnetwork.org.au/) <br>
 
