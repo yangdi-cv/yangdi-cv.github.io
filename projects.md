@@ -4,11 +4,15 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-- **ML Algorithms for Vessel Identification and Categorisation** <br>
+- **Multi-modal Vessel Surveillance via Optical and Synthetic Aperture Radar Imaging** <br>
+  Aug 2023 - Present <br>
+  Funded by [NSW Space Research Network](https://www.spaceresearchnetwork.org.au/) <br>
+
+- **Machine Learning Algorithms for Vessel Identification and Categorisation** <br>
   Feb 2023 - Jun 2023 <br>
   Funded by [AGO Analytics Lab](https://frontiersi.com.au/analytics-lab-program/) Program <br>
   
-- **Airborne and AI-Driven Assessment Solution of Sugarcane** <br>
+- **SmartEye - Airborne and AI-Driven Assessment Solution of Sugarcane** <br>
   Oct 2022 - Dec 2022 <br>
   Funded by [CSIRO Aus4Innovation](https://research.csiro.au/aus4innovation/) Program <br>
 
