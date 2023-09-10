@@ -6,9 +6,36 @@ title: Publications
 
 ## Publications
 
+- 
+<div align="center">
+    <table rules="none">
+        <tr>
+            <td>
+                <img src="https://github.com/Ericdiii/TP-YOLO/raw/main/figure/TP-YOLO_framework.png?raw=true" height="50"/>
+            </td>
+            <td>
+                <p><strong>TP-YOLO: A Lightweight Attention-based Architecture for Tiny Pest Detection</strong></p>
+            </td>
+        </tr>
+    </table>    
+</div>
+
+- <div align="center">
+    <table rules="none">
+        <tr>
+            <td>
+                <img src="https://github.com/Ericdiii/TP-YOLO/raw/main/figure/TP-YOLO_framework.png?raw=true" height="50"/>
+            </td>
+            <td>
+                <p><strong>TP-YOLO: A Lightweight Attention-based Architecture for Tiny Pest Detection</strong></p>
+            </td>
+        </tr>
+    </table>    
+</div>
+
 - [TP-YOLO: A Lightweight Attention-based Architecture for Tiny Pest Detection]() <br>
   **Yang Di**, Son Lam Phung, Julian van den Berg, Jason Clissold, and Abdesselam Bouzerdoum,
-  in *IEEE International Conference on Image Processing (ICIP)*, pp. 1-5, 2023. <br>
+  in *IEEE International Conference on Image Processing (ICIP)*, pp. 1-5, 2023. <be>
 
 - [Enhanced Experience Replay for Class Incremental Continual Learning]() <br>
   Jiafu Hao, Son Lam Phung, **Yang Di**, Hoang Thanh Le, and Abdesselam Bouzerdoum,
