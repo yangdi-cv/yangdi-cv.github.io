@@ -6,7 +6,7 @@ title: Publications
 
 ## Publications
 
-- [TP-YOLO: A Lightweight Attention-based Architecture for Tiny Pest Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10222202) <br>
+- [TP-YOLO: A Lightweight Attention-based Architecture for Tiny Pest Detection](https://ieeexplore.ieee.org/document/10222202) <br>
   **Yang Di**, Son Lam Phung, Julian van den Berg, Jason Clissold, and Abdesselam Bouzerdoum,
   in *IEEE International Conference on Image Processing (ICIP)*, 2023, pp. 3394-3398. <br>
   
