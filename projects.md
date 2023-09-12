@@ -5,7 +5,7 @@ title: Projects
 ---
 
 - **Multi-Modal Satellite-based Vessel Surveillance via Optical and SAR Imaging** <br>
-  Aug 2023 - Present <br>
+  Sep 2023 - Present <br>
   Funded by [NSW Space Research Network](https://www.spaceresearchnetwork.org.au/) <br>
 
 - **Machine Learning Algorithms for Vessel Identification and Categorisation** <br>
