@@ -13,7 +13,7 @@ title: Publications
 
 - [Enhanced Experience Replay for Class Incremental Continual Learning]() <br>
   Jiafu Hao, Son Lam Phung, **Yang Di**, Hoang Thanh Le, and Abdesselam Bouzerdoum,
-  in *International Conference on Digital Image Computing: Techniques and Applications (DICTA)*, 2023, pp. 1-8. <br>
+  in *International Conference on Digital Image Computing: Techniques and Applications (DICTA)*, 2023, pp. 1-7. <br>
   [[PDF]()] [[Code](https://github.com/yangdi-cv/EGS)] [[Video]()]
 
 ## Services
