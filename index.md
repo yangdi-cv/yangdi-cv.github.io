@@ -4,8 +4,6 @@ layout: page
 
 ## About Me
 
-<img src="https://github.com/yangdi-cv/yangdi-cv.github.io/blob/main/images/img_me.jpg?raw=true" class="floatpic" height="350">
-
 Here is **Yang Di**.
 
 I'm a second-year PhD student at the [CSIP Lab](https://www.uow.edu.au/engineering-information-sciences/research/signals-information-and-communications-research-institute-sicom/), [University of Wollongong (UOW)](https://www.uow.edu.au/). I am fortunate to be supervised by [Prof. Son Lam Phung](https://scholars.uow.edu.au/lam-phung), [Senior Prof. Abdesselam Bouzerdoum](https://scholars.uow.edu.au/a-bouzerdoum), and [Dr. Hoang Thanh Le](https://scholars.uow.edu.au/thanh-le-hoang). I am also an Artificial Intelligence Engineer at the [Intelligent System Design](https://isd.ai/).
