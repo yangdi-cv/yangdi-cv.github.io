@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="https://github.com/yangdi-cv/yangdi-cv.github.io/blob/main/images/me_img.jpg?raw=true" class="floatpic" height="300">
+<img src="https://github.com/yangdi-cv/yangdi-cv.github.io/blob/main/images/me_img.jpg?raw=true" class="floatpic" height="350">
 
 Here is **Yang Di**.
 
