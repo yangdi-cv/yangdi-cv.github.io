@@ -4,6 +4,10 @@ permalink: /projects/index.html
 title: Projects
 ---
 
+- **Diffusion-based Generative Adversarial Networks and Human Feedback** <br>
+  Oct 2023 - Present <br>
+  Funded by DIN Program <br>
+
 - **Multi-Modal Satellite-based Vessel Surveillance via Optical and SAR Imaging** <br>
   Oct 2023 - Present <br>
   Funded by [NSW Space Research Network](https://www.spaceresearchnetwork.org.au/) <br>
