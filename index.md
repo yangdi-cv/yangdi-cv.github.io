@@ -24,5 +24,5 @@ My research interests include object detection, deep learning, computer vision, 
 
 - **Oct 2023:** One paper is accepted to [WACV 2024](https://wacv2024.thecvf.com/).
 - **Sep 2023:** One paper is accepted to [DICTA 2023](https://www.dictaconference.org/).
-- **Aug 2023:** Serve as a reviewer for [IEEE Access](https://ieeeaccess.ieee.org/).
+- **Aug 2023:** Serve as a reviewer for [IEEE Access](https://ieeeaccess.ieee.org/) Journal.
 - **Jun 2023:** One paper is accepted to [ICIP 2023](https://2023.ieeeicip.org/).
