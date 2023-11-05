@@ -5,11 +5,11 @@ title: Teaching
 ---
 
 ## Lab Demonstration
-- ECTE203: Digital Signal Processing
-- ECTE333: Microcontroller Architecture and Application
+- [ECTE203](https://courses.uow.edu.au/subjects/2023/ECTE203?year=2023): Digital Signal Processing
+- [ECTE333](https://courses.uow.edu.au/subjects/2023/ECTE203?year=2023): Microcontroller Architecture and Application
 
 ## Tutoring
-- CSCI316: Big Data Mining Techniques and Implementation
+- [CSCI316](https://courses.uow.edu.au/subjects/2023/CSCI316?year=2023): Big Data Mining Techniques and Implementation
 
 ## Mentoring
 - [Senior Student Mentor](https://yangdi-cv.github.io/awards/Student-Mentor.pdf)
