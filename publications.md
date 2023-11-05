@@ -23,4 +23,4 @@ title: Publications
 
 ## Services
 
-- IEEE Access Reviewer
+- IEEE Access Journal Reviewer
