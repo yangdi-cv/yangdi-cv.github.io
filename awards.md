@@ -7,10 +7,10 @@ title: Awards
 ## Scholarships
 
 - Higher Degree Research Scholarship
-- International Postgraduate Tuition Award
+- [International Postgraduate Tuition Award](https://www.uow.edu.au/research-and-innovation/graduate-research/scholarships/#/%20International%20Postgraduate%20Tuition%20Awards%20(IPTA))
 - PhD Top-up Scholarship
 - [Summer Research Scholarship](https://yangdi-cv.github.io/awards/Summer-Research.pdf)
-- RA Scholarship
+- [RA Scholarship](https://www.uow.edu.au/student/uowx/get-involved/uowx-activities/residential-ambassador.php)
 
 
 ## Honors
