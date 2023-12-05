@@ -4,6 +4,13 @@ permalink: /projects/index.html
 title: Projects
 ---
 
+
+
+
+- **Real-time Road Condition Assessment with AI-powered In-vehicle Cameras** <br>
+  Nov 2023 - Present <br>
+  Funded by UOW Research Partnership Grant <br>
+
 - **Diffusion-based Generative Adversarial Networks and Human Feedback** <br>
   Oct 2023 - Present <br>
   Funded by DIN Program <br>
