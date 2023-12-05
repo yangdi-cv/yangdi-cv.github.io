@@ -9,8 +9,8 @@ title: Publications
 - [TP-YOLO: A Lightweight Attention-based Architecture for Tiny Pest Detection](https://ieeexplore.ieee.org/document/10222202) <br>
   **Yang Di**, Son Lam Phung, Julian van den Berg, Jason Clissold, and Abdesselam Bouzerdoum,
   in *IEEE International Conference on Image Processing (ICIP)*, 2023, pp. 3394-3398. <br>
-  [[Paper](https://yangdi-cv.github.io/publications/TP-YOLO_ICIP2023.pdf)] [[Code](https://github.com/yangdi-cv/TP-YOLO)] [[Oral](https://youtu.be/w7pWrLW9vwo?si=4jnR-AjxmvNNN2VH)]
-
+  <img src="https://github.com/Ericdiii/TP-YOLO/blob/main/figure/TP-YOLO_framework.png?raw=true" height="100"/> [[Paper](https://yangdi-cv.github.io/publications/TP-YOLO_ICIP2023.pdf)] [[Code](https://github.com/yangdi-cv/TP-YOLO)] [[Oral](https://youtu.be/w7pWrLW9vwo?si=4jnR-AjxmvNNN2VH)] <br>
+   
 - [UOW-Vessel: A Benchmark Dataset of High-Resolution Optical Satellite Images for Vessel Detection and Segmentation]() <br>
   Ly Bui, Son Lam Phung, **Yang Di**, Hoang Thanh Le, Tran Thanh Phong Nguyen, and Abdesselam Bouzerdoum,
   in *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2024, pp. 1-10. <br>
