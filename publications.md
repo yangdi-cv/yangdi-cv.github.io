@@ -15,7 +15,7 @@ title: Publications
 - [UOW-Vessel: A Benchmark Dataset of High-Resolution Optical Satellite Images for Vessel Detection and Segmentation]() <br>
   Ly Bui, Son Lam Phung, **Yang Di**, Hoang Thanh Le, Tran Thanh Phong Nguyen, and Abdesselam Bouzerdoum,
   in *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2024, pp. 1-10. <br>
-  [[Paper](https://yangdi-cv.github.io/publications/UOW-Vessel_WACV2024.pdf)] [[Dataset](https://documents.uow.edu.au/~phung/UOW-Vessel.html)] [[Poster]()] <br>
+  [[Paper](https://yangdi-cv.github.io/publications/UOW-Vessel_WACV2024.pdf)] [[Dataset](https://documents.uow.edu.au/~phung/UOW-Vessel.html)] [[Poster](https://yangdi-cv.github.io/publications/posters/UOW-Vessel_WACV2024.pdf)] <br>
     <img src="https://github.com/yangdi-cv/yangdi-cv.github.io/blob/main/publications/images/uowvessel_img.png?raw=true"/> 
 
 - [Enhanced Experience Replay for Class Incremental Continual Learning]() <br>
