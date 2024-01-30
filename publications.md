@@ -18,9 +18,9 @@ title: Publications
   [[Paper](https://yangdi-cv.github.io/publications/UOW-Vessel_WACV2024.pdf)] [[Dataset](https://documents.uow.edu.au/~phung/UOW-Vessel.html)] [[Poster](https://yangdi-cv.github.io/publications/posters/UOW-Vessel_WACV2024.pdf)] <br>
     <img src="https://github.com/yangdi-cv/yangdi-cv.github.io/blob/main/publications/images/uowvessel_img.png?raw=true"/> 
 
-- [Enhanced Experience Replay for Class Incremental Continual Learning]() <br>
+- [Enhanced Experience Replay for Class Incremental Continual Learning](https://ieeexplore.ieee.org/document/10410917/references#references) <br>
   Jiafu Hao, Son Lam Phung, **Yang Di**, Hoang Thanh Le, and Abdesselam Bouzerdoum,
-  in *International Conference on Digital Image Computing: Techniques and Applications (DICTA)*, 2023, pp. 1-7. <br>
+  in *International Conference on Digital Image Computing: Techniques and Applications (DICTA)*, 2023, pp. 258-264. <br>
   [[Paper](https://yangdi-cv.github.io/publications/EER_DICTA2023.pdf)] [[Code](https://github.com/yangdi-cv/EER)] [[Oral](https://youtu.be/WKZthh2XOuY?si=Z1gyoSLL8vKaIh7e)] <br>
     <img src="https://github.com/yangdi-cv/yangdi-cv.github.io/blob/main/publications/images/eer_img.png?raw=true"/> 
 
