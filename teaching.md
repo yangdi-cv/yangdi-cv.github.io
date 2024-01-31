@@ -9,8 +9,10 @@ title: Teaching
 - [CSCI316](https://courses.uow.edu.au/subjects/2024/CSCI316?year=2024): Big Data Mining Techniques and Implementation
 
 ## Lab Demonstration
-- [ECTE203](https://courses.uow.edu.au/subjects/2024/ECTE203?year=2024): Digital Signal Processing
+- [ECTE433](https://courses.uow.edu.au/subjects/2024/ECTE433?year=2024): Embedded Systems
 - [ECTE333](https://courses.uow.edu.au/subjects/2024/ECTE333?year=2024): Microcontroller Architecture and Application
+- [ECTE203](https://courses.uow.edu.au/subjects/2024/ECTE203?year=2024): Digital Signal Processing
+
 
 ## Mentoring
 - [Senior Student Mentor](https://yangdi-cv.github.io/awards/Student-Mentor.pdf)
