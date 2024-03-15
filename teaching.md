@@ -10,7 +10,7 @@ title: Teaching
 
 ## Lab Demonstration
 - [ECTE433](https://courses.uow.edu.au/subjects/2024/ECTE433?year=2024): Embedded Systems
-- [ECTE333](https://courses.uow.edu.au/subjects/2024/ECTE333?year=2024): Microcontroller Architecture and Application
+- [ECTE333](https://courses.uow.edu.au/subjects/2024/ECTE333?year=2024): Microcontroller Architecture and Applications
 - [ECTE203](https://courses.uow.edu.au/subjects/2024/ECTE203?year=2024): Digital Signal Processing
 
 
