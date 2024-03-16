@@ -6,17 +6,17 @@ layout: page
 
 Here is **Yang Di**.
 
-I'm a PhD student at the [CSIP Lab](https://www.uow.edu.au/engineering-information-sciences/research/signals-information-and-communications-research-institute-sicom/), [University of Wollongong (UOW)](https://www.uow.edu.au/). I am fortunate to be supervised by [Prof. Son Lam Phung](https://scholars.uow.edu.au/lam-phung), [Senior Prof. Abdesselam Bouzerdoum](https://scholars.uow.edu.au/a-bouzerdoum), and [Dr. Hoang Thanh Le](https://scholars.uow.edu.au/thanh-le-hoang). I am also a Machine Learning Engineer at the [Intelligent System Design (ISD)](https://isd.ai/).
+I'm a PhD student at the [CSIP Lab](https://www.uow.edu.au/engineering-information-sciences/research/signals-information-and-communications-research-institute-sicom/), [University of Wollongong (UOW)](https://www.uow.edu.au/). I am fortunate to be supervised by [Prof. Son Lam Phung](https://scholars.uow.edu.au/lam-phung), [Senior Prof. Abdesselam Bouzerdoum](https://scholars.uow.edu.au/a-bouzerdoum), and [Dr. Hoang Thanh Le](https://scholars.uow.edu.au/thanh-le-hoang). My research interests include artificial intelligence, deep learning, computer vision, and pattern recognition. 
 
-My research interests include artificial intelligence, deep learning, computer vision, and pattern recognition. 
+I am also a Machine Learning Engineer at the [Intelligent System Design (ISD)](https://isd.ai/).
 
 <br>
 
 ## Academic Background
 
-- **Feb 2022 - Present:** University of Wollongong (PhD) in Computer Science <br>
-- **Mar 2020 - Dec 2021:** University of Wollongong (BEng) in Telecom. Engineering
-- **Sep 2017 - Jun 2019:** Tiangong University (BEng) in Telecom. Engineering
+- **Feb 2022 - Present:** UOW (PhD) in Computer Science <br>
+- **Mar 2020 - Dec 2021:** UOW (BEng) in Telecom. Engineering
+- **Sep 2017 - Jun 2019:** TGU (BEng) in Telecom. Engineering
 
 <br>
 
