@@ -22,8 +22,8 @@ I am also a Machine Learning Engineer at the [Intelligent System Design](https:/
 
 ## News and Updates
 
-- **Mar 2024:** Two papers are accepted to [IJCNN 2024](https://2024.ieeewcci.org/).
-- **Oct 2023:** One paper is accepted to [WACV 2024](https://wacv2024.thecvf.com/).
-- **Sep 2023:** One paper is accepted to [DICTA 2023](https://www.dictaconference.org/).
+- **Mar 2024:** Two papers are accepted by [IJCNN 2024](https://2024.ieeewcci.org/).
+- **Oct 2023:** One paper is accepted by [WACV 2024](https://wacv2024.thecvf.com/).
+- **Sep 2023:** One paper is accepted by [DICTA 2023](https://www.dictaconference.org/).
 - **Aug 2023:** Serve as a reviewer for [IEEE Access](https://ieeeaccess.ieee.org/) Journal.
-- **Jun 2023:** One paper is accepted to [ICIP 2023](https://2023.ieeeicip.org/).
+- **Jun 2023:** One paper is accepted by [ICIP 2023](https://2023.ieeeicip.org/).
