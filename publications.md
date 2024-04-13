@@ -11,7 +11,7 @@ title: Publications
   in *IEEE International Conference on Image Processing (ICIP)*, 2023, pp. 3394-3398. <br>
   <img src="https://github.com/yangdi-cv/yangdi-cv.github.io/blob/main/publications/images/tpyolo_img.png?raw=true"/> 
    
-- [UOW-Vessel: A Benchmark Dataset of High-Resolution Optical Satellite Images for Vessel Detection and Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Bui_UOW-Vessel_A_Benchmark_Dataset_of_High-Resolution_Optical_Satellite_Images_for_WACV_2024_paper.html) <br>
+- [UOW-Vessel: A Benchmark Dataset of High-Resolution Optical Satellite Images for Vessel Detection and Segmentation](https://ieeexplore.ieee.org/document/10484385) <br>
   Ly Bui, Son Lam Phung, **Yang Di**, Hoang Thanh Le, Tran Thanh Phong Nguyen, Sandy Burden, and Abdesselam Bouzerdoum,
   in *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2024, pp. 4428-4436. <br>
   <img src="https://github.com/yangdi-cv/yangdi-cv.github.io/blob/main/publications/images/uowvessel_img.png?raw=true"/> 
