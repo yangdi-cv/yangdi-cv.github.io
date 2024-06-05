@@ -6,7 +6,7 @@ title: Publications
 
 ## Publications
 
-- [Bio-DETR: A Transformer-based Network for\\Pest and Seed Detection with Hyperspectral Images]() <br>
+- [Bio-DETR: A Transformer-based Network for Pest and Seed Detection with Hyperspectral Images]() <br>
   **Yang Di**, Son Lam Phung, Julian van den Berg, Jason Clissold, Ly Bui, Hoang Thanh Le, and Abdesselam Bouzerdoum,
   in *International Joint Conference on Neural Networks (IJCNN)*, 2024, pp. 1-8. <br>
    
