@@ -24,4 +24,6 @@ title: Publications
 
 ## Services
 
-- IEEE Access Journal Reviewer
+
+- Journal Reviewer: [IEEE Access](https://ieeeaccess.ieee.org/) 
+- Session Chair: [IEEE WCCI 2024](https://2024.ieeewcci.org/)
